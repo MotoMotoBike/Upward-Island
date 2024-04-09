@@ -423,7 +423,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5472924849578573540, guid: 06d543669aad2774ca7b260825599094, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.8
+      value: -1.03
       objectReference: {fileID: 0}
     - target: {fileID: 5472924849578573540, guid: 06d543669aad2774ca7b260825599094, type: 3}
       propertyPath: m_LocalPosition.y
@@ -491,7 +491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: {x: -0.1, y: 0}
-  maxOffset: 2
+  maxOffset: 1
 --- !u!1 &252947163
 GameObject:
   m_ObjectHideFlags: 0
@@ -3357,7 +3357,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5472924849578573540, guid: 06d543669aad2774ca7b260825599094, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.8
+      value: -1.42
       objectReference: {fileID: 0}
     - target: {fileID: 5472924849578573540, guid: 06d543669aad2774ca7b260825599094, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4191,7 +4191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: {x: -0.1, y: 0}
-  maxOffset: 3
+  maxOffset: 1
 --- !u!1 &2108403956
 GameObject:
   m_ObjectHideFlags: 0
